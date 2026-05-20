@@ -8,6 +8,11 @@ Pipeline de dados e dashboard de inteligência comercial para acompanhamento de 
 
 ```
 sc-comercial-analytics/
+├── scripts/
+│   ├── tratar_dados.py
+│   ├── eda_fiesc.py
+│   ├── setup_projeto.py
+│   └── gerar_shapefile_regionais.py
 ├── 01_dados_brutos/
 │   └── tratados/
 │       ├── leads_tratado.csv
@@ -16,7 +21,6 @@ sc-comercial-analytics/
 │       ├── matriculas_tratado.csv
 │       ├── metas_tratado.csv
 │       └── fFunil.csv
-├── tratar_dados.py
 ├── .gitignore
 └── README.md
 ```
@@ -57,10 +61,21 @@ sc-comercial-analytics/
 
 ---
 
+## Scripts
+
+| Script | Descrição |
+|---|---|
+| `scripts/tratar_dados.py` | Leitura, limpeza, normalização e exportação de todas as bases do funil |
+| `scripts/eda_fiesc.py` | Análise exploratória completa — distribuições, conversões e sazonalidade |
+| `scripts/setup_projeto.py` | Criação da estrutura de pastas do projeto |
+| `scripts/gerar_shapefile_regionais.py` | Geração do GeoJSON das regionais SENAI/SC para uso em mapas |
+
+---
+
 ## Como executar o pipeline
 
 ```bash
-python tratar_dados.py
+python scripts/tratar_dados.py
 ```
 
 Gera todos os CSVs tratados em `01_dados_brutos/tratados/`.
