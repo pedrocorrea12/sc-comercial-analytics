@@ -7,7 +7,7 @@ import pandas as pd
 # Garante UTF-8 no stdout do terminal
 sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 
-BASE = r'C:\inteligencia_mercado'
+BASE = r'C:\inteligencia_mercado\01_dados_brutos'
 OUT  = r'C:\inteligencia_mercado\01_dados_brutos\tratados'
 os.makedirs(OUT, exist_ok=True)
 

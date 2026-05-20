@@ -9,11 +9,11 @@ Pipeline de dados e dashboard de inteligência comercial para acompanhamento de 
 ```
 sc-comercial-analytics/
 ├── scripts/
-│   ├── tratar_dados.py
-│   ├── eda_fiesc.py
-│   ├── setup_projeto.py
-│   └── gerar_shapefile_regionais.py
+│   └── tratar_dados.py
 ├── 01_dados_brutos/
+│   ├── leads_atualizados.csv
+│   ├── matriculas_atualizadas.csv
+│   ├── pre_matriculas_atualizadas.csv
 │   └── tratados/
 │       ├── leads_tratado.csv
 │       ├── inscritos_tratado.csv

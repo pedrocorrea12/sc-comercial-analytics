@@ -1,0 +1,401 @@
+lead_id,data_lead,curso,regional,canal,status_crm
+1,2026-03-23,Administração,Alto Uruguai Catarinense,Facebook,Contato
+2,2026-01-29,TI,Alto Vale do Itajaí,Indicação,Novo
+3,2026-03-17,Marketing,Alto Uruguai Catarinense,Google,Novo
+4,2026-01-28,TI,Sul,Indicação,Novo
+5,2026-03-13,TI,Vale do Itajaí Mirim,Indicação,Convertido
+6,2026-01-29,Marketing,Sudeste,Facebook,Novo
+7,2026-04-08,TI,Oeste,Facebook,Qualificado
+8,2026-01-20,TI,Norte - Nordeste,Google,Novo
+9,2026-02-18,Administração,Norte - Nordeste,Facebook,Qualificado
+10,2026-04-14,Administração,Planalto Norte,Indicação,Novo
+11,2026-04-29,Marketing,Alto Vale do Itajaí,Indicação,Qualificado
+12,2026-04-17,Eletromecânica,Norte - Nordeste,Indicação,Contato
+13,2026-04-01,Administração,Alto Uruguai Catarinense,Instagram,Qualificado
+14,2026-01-11,TI,Alto Vale do Itajaí,WhatsApp,Qualificado
+15,2026-02-28,Logística,Centro - Norte,Facebook,Qualificado
+16,2026-01-27,Logística,Vale do Itajaí Mirim,Google,Contato
+17,2026-03-10,TI,Centro - Norte,WhatsApp,Convertido
+18,2026-02-04,Eletromecânica,Centro - Oeste,Facebook,Novo
+19,2026-01-30,Administração,Norte - Nordeste,WhatsApp,Qualificado
+20,2026-01-09,TI,Sudeste,Facebook,Contato
+21,2026-03-25,Marketing,Oeste,WhatsApp,Contato
+22,2026-02-03,TI,Centro - Oeste,Indicação,Qualificado
+23,2026-04-06,Eletromecânica,Oeste,Indicação,Convertido
+24,2026-02-16,TI,Centro - Norte,Indicação,Convertido
+25,2026-01-12,Administração,Alto Vale do Itajaí,Instagram,Contato
+26,2026-04-12,Marketing,Sudeste,Google,Convertido
+27,2026-02-18,Eletromecânica,Planalto Norte,Indicação,Qualificado
+28,2026-03-12,Administração,Vale do Itajaí Mirim,Google,Qualificado
+29,2026-04-09,Logística,Alto Vale do Itajaí,Facebook,Convertido
+30,2026-01-21,Marketing,Alto Uruguai Catarinense,Facebook,Contato
+31,2026-03-06,Administração,Vale do Itajaí Mirim,Facebook,Contato
+32,2026-01-20,Logística,Centro - Norte,Indicação,Novo
+33,2026-03-18,Logística,Planalto Norte,Google,Novo
+34,2026-04-29,Logística,Foz do Rio Itajaí,Instagram,Novo
+35,2026-01-31,Eletromecânica,Alto Vale do Itajaí,Google,Convertido
+36,2026-04-15,Administração,Sul,Instagram,Contato
+37,2026-03-26,Marketing,Sul,Instagram,Qualificado
+38,2026-03-09,Eletromecânica,Oeste,Instagram,Contato
+39,2026-04-02,Logística,Oeste,Facebook,Convertido
+40,2026-04-26,Eletromecânica,Planalto Norte,Google,Contato
+41,2026-01-29,Administração,Norte - Nordeste,Google,Contato
+42,2026-03-17,TI,Alto Uruguai Catarinense,Google,Novo
+43,2026-01-30,Administração,Alto Uruguai Catarinense,Facebook,Novo
+44,2026-03-07,TI,Foz do Rio Itajaí,WhatsApp,Contato
+45,2026-03-11,TI,Sudeste,Indicação,Convertido
+46,2026-02-01,Marketing,Oeste,Instagram,Novo
+47,2026-01-13,Marketing,Norte - Nordeste,WhatsApp,Convertido
+48,2026-03-01,Administração,Vale do Itajaí Mirim,Google,Novo
+49,2026-02-21,Logística,Alto Vale do Itajaí,Instagram,Contato
+50,2026-01-25,Eletromecânica,Planalto Norte,Instagram,Convertido
+51,2026-01-24,Logística,Planalto Norte,Instagram,Novo
+52,2026-02-26,Eletromecânica,Alto Vale do Itajaí,Google,Novo
+53,2026-01-12,TI,Centro - Norte,WhatsApp,Convertido
+54,2026-03-03,TI,Oeste,Google,Contato
+55,2026-02-18,Administração,Oeste,Facebook,Convertido
+56,2026-02-06,Marketing,Sul,WhatsApp,Contato
+57,2026-01-25,Logística,Centro - Oeste,Google,Novo
+58,2026-04-06,Logística,Alto Uruguai Catarinense,Google,Convertido
+59,2026-03-06,Eletromecânica,Centro - Norte,Google,Novo
+60,2026-04-19,TI,Alto Vale do Itajaí,Indicação,Novo
+61,2026-03-28,TI,Oeste,Google,Contato
+62,2026-03-16,Eletromecânica,Alto Uruguai Catarinense,Indicação,Novo
+63,2026-02-23,Eletromecânica,Sudeste,Indicação,Qualificado
+64,2026-04-30,Logística,Centro - Oeste,Facebook,Contato
+65,2026-02-03,Marketing,Centro - Norte,Facebook,Convertido
+66,2026-02-10,Administração,Alto Uruguai Catarinense,WhatsApp,Novo
+67,2026-01-10,Eletromecânica,Centro - Oeste,Indicação,Qualificado
+68,2026-01-17,Logística,Alto Vale do Itajaí,Instagram,Qualificado
+69,2026-02-06,TI,Planalto Norte,Indicação,Qualificado
+70,2026-03-20,Eletromecânica,Alto Uruguai Catarinense,Indicação,Qualificado
+71,2026-04-30,Administração,Centro - Norte,Facebook,Novo
+72,2026-04-24,Administração,Sul,Instagram,Qualificado
+73,2026-02-06,Eletromecânica,Centro - Oeste,Facebook,Contato
+74,2026-03-29,Logística,Sul,WhatsApp,Qualificado
+75,2026-04-26,Administração,Alto Vale do Itajaí,WhatsApp,Qualificado
+76,2026-01-06,Administração,Norte - Nordeste,Instagram,Qualificado
+77,2026-01-21,Marketing,Sul,WhatsApp,Novo
+78,2026-01-15,Administração,Centro - Norte,Indicação,Novo
+79,2026-04-17,Logística,Sudeste,Indicação,Contato
+80,2026-02-25,TI,Alto Uruguai Catarinense,Facebook,Qualificado
+81,2026-04-26,Administração,Norte - Nordeste,Instagram,Contato
+82,2026-03-27,Administração,Norte - Nordeste,Indicação,Convertido
+83,2026-03-21,TI,Centro - Oeste,Instagram,Contato
+84,2026-04-23,Marketing,Alto Uruguai Catarinense,Instagram,Qualificado
+85,2026-04-11,Marketing,Vale do Itajaí Mirim,Instagram,Qualificado
+86,2026-01-21,Administração,Oeste,Google,Convertido
+87,2026-01-29,TI,Planalto Norte,Facebook,Qualificado
+88,2026-04-16,TI,Centro - Oeste,Google,Contato
+89,2026-02-21,Logística,Foz do Rio Itajaí,Google,Qualificado
+90,2026-02-14,Eletromecânica,Oeste,Indicação,Qualificado
+91,2026-05-01,Administração,Alto Vale do Itajaí,Facebook,Contato
+92,2026-03-16,Logística,Alto Uruguai Catarinense,Google,Convertido
+93,2026-02-14,Logística,Oeste,Indicação,Novo
+94,2026-02-19,Eletromecânica,Centro - Oeste,Facebook,Novo
+95,2026-04-01,Marketing,Alto Uruguai Catarinense,Indicação,Contato
+96,2026-02-16,Marketing,Alto Vale do Itajaí,Facebook,Qualificado
+97,2026-03-26,Administração,Foz do Rio Itajaí,Indicação,Qualificado
+98,2026-03-27,Marketing,Norte - Nordeste,WhatsApp,Qualificado
+99,2026-03-12,TI,Centro - Oeste,WhatsApp,Convertido
+100,2026-03-28,TI,Sudeste,Indicação,Qualificado
+101,2026-02-21,Eletromecânica,Alto Uruguai Catarinense,Facebook,Qualificado
+102,2026-01-27,Marketing,Sudeste,Indicação,Qualificado
+103,2026-03-01,Marketing,Planalto Norte,Instagram,Convertido
+104,2026-04-12,TI,Vale do Itajaí Mirim,Google,Qualificado
+105,2026-03-07,Eletromecânica,Norte - Nordeste,Google,Contato
+106,2026-03-28,Logística,Centro - Oeste,Instagram,Contato
+107,2026-01-04,Administração,Centro - Oeste,WhatsApp,Novo
+108,2026-02-28,Marketing,Vale do Itajaí Mirim,Indicação,Contato
+109,2026-04-02,Marketing,Planalto Norte,WhatsApp,Contato
+110,2026-01-19,Administração,Alto Vale do Itajaí,WhatsApp,Contato
+111,2026-01-23,Eletromecânica,Planalto Norte,Google,Contato
+112,2026-04-28,Administração,Planalto Norte,Instagram,Convertido
+113,2026-03-27,Eletromecânica,Sul,Indicação,Qualificado
+114,2026-04-07,Marketing,Sudeste,Indicação,Convertido
+115,2026-04-17,Eletromecânica,Planalto Norte,Instagram,Convertido
+116,2026-02-27,Logística,Centro - Oeste,Facebook,Convertido
+117,2026-03-22,TI,Foz do Rio Itajaí,WhatsApp,Novo
+118,2026-04-02,Logística,Centro - Oeste,Facebook,Qualificado
+119,2026-02-10,Eletromecânica,Alto Vale do Itajaí,Instagram,Contato
+120,2026-01-30,Marketing,Centro - Norte,Instagram,Novo
+121,2026-02-23,Marketing,Norte - Nordeste,Indicação,Convertido
+122,2026-02-23,Administração,Centro - Oeste,WhatsApp,Convertido
+123,2026-04-26,Eletromecânica,Alto Uruguai Catarinense,Indicação,Convertido
+124,2026-03-03,Administração,Norte - Nordeste,Facebook,Convertido
+125,2026-04-20,Marketing,Sul,Indicação,Contato
+126,2026-03-04,TI,Foz do Rio Itajaí,WhatsApp,Convertido
+127,2026-01-04,Marketing,Norte - Nordeste,WhatsApp,Contato
+128,2026-04-18,Marketing,Centro - Norte,Indicação,Novo
+129,2026-04-27,Marketing,Sudeste,Indicação,Novo
+130,2026-01-11,Marketing,Centro - Norte,WhatsApp,Contato
+131,2026-01-07,Logística,Oeste,Facebook,Contato
+132,2026-02-28,Logística,Norte - Nordeste,WhatsApp,Qualificado
+133,2026-04-07,Marketing,Foz do Rio Itajaí,Google,Convertido
+134,2026-01-03,Eletromecânica,Alto Uruguai Catarinense,Facebook,Contato
+135,2026-03-25,Administração,Vale do Itajaí Mirim,Google,Novo
+136,2026-02-01,TI,Alto Uruguai Catarinense,Indicação,Contato
+137,2026-01-31,TI,Planalto Norte,Google,Contato
+138,2026-03-01,Logística,Norte - Nordeste,Instagram,Novo
+139,2026-04-10,TI,Foz do Rio Itajaí,Google,Novo
+140,2026-04-29,Logística,Sudeste,WhatsApp,Convertido
+141,2026-05-01,TI,Alto Vale do Itajaí,Indicação,Contato
+142,2026-01-14,Logística,Vale do Itajaí Mirim,Indicação,Novo
+143,2026-04-12,Eletromecânica,Alto Uruguai Catarinense,Facebook,Convertido
+144,2026-03-26,Logística,Alto Vale do Itajaí,Indicação,Qualificado
+145,2026-01-02,Marketing,Planalto Norte,Google,Convertido
+146,2026-02-16,Marketing,Centro - Norte,WhatsApp,Contato
+147,2026-04-04,Eletromecânica,Vale do Itajaí Mirim,Facebook,Convertido
+148,2026-03-01,Marketing,Sudeste,Facebook,Qualificado
+149,2026-04-20,TI,Alto Vale do Itajaí,Facebook,Convertido
+150,2026-02-01,Marketing,Sudeste,Indicação,Convertido
+151,2026-02-13,Administração,Planalto Norte,Facebook,Contato
+152,2026-03-04,TI,Norte - Nordeste,Facebook,Qualificado
+153,2026-02-05,Eletromecânica,Foz do Rio Itajaí,Indicação,Novo
+154,2026-03-08,TI,Alto Vale do Itajaí,Instagram,Convertido
+155,2026-03-04,Eletromecânica,Centro - Oeste,WhatsApp,Convertido
+156,2026-02-27,Administração,Alto Vale do Itajaí,Facebook,Contato
+157,2026-02-21,TI,Foz do Rio Itajaí,Indicação,Qualificado
+158,2026-03-02,Eletromecânica,Sul,Facebook,Convertido
+159,2026-04-06,Eletromecânica,Norte - Nordeste,Facebook,Convertido
+160,2026-02-04,Logística,Foz do Rio Itajaí,Instagram,Novo
+161,2026-04-03,TI,Norte - Nordeste,Google,Contato
+162,2026-01-25,TI,Planalto Norte,Facebook,Qualificado
+163,2026-01-13,TI,Foz do Rio Itajaí,Instagram,Qualificado
+164,2026-01-23,Logística,Alto Uruguai Catarinense,Indicação,Contato
+165,2026-02-05,Administração,Alto Uruguai Catarinense,Indicação,Qualificado
+166,2026-03-31,TI,Vale do Itajaí Mirim,WhatsApp,Novo
+167,2026-04-22,Administração,Sudeste,Facebook,Convertido
+168,2026-03-03,Marketing,Norte - Nordeste,Instagram,Novo
+169,2026-02-02,Marketing,Alto Vale do Itajaí,Google,Convertido
+170,2026-03-04,Administração,Sudeste,Google,Contato
+171,2026-01-20,Eletromecânica,Foz do Rio Itajaí,Google,Contato
+172,2026-01-16,Eletromecânica,Oeste,Indicação,Contato
+173,2026-04-10,Eletromecânica,Oeste,WhatsApp,Convertido
+174,2026-02-08,Eletromecânica,Oeste,Facebook,Novo
+175,2026-03-20,Administração,Centro - Oeste,Instagram,Qualificado
+176,2026-03-26,Administração,Centro - Norte,Instagram,Contato
+177,2026-03-12,Administração,Centro - Norte,Google,Convertido
+178,2026-02-27,Eletromecânica,Planalto Norte,Facebook,Novo
+179,2026-01-30,Logística,Foz do Rio Itajaí,WhatsApp,Novo
+180,2026-03-29,TI,Foz do Rio Itajaí,Indicação,Contato
+181,2026-02-24,Administração,Sul,Instagram,Contato
+182,2026-04-27,Logística,Centro - Norte,Google,Novo
+183,2026-01-22,Logística,Sudeste,Indicação,Qualificado
+184,2026-02-26,Administração,Planalto Norte,Facebook,Convertido
+185,2026-05-01,Logística,Sul,Indicação,Convertido
+186,2026-02-26,Administração,Sudeste,Google,Convertido
+187,2026-04-05,Logística,Sudeste,Facebook,Novo
+188,2026-01-12,TI,Vale do Itajaí Mirim,Indicação,Novo
+189,2026-04-08,Logística,Sudeste,Google,Contato
+190,2026-03-02,Eletromecânica,Vale do Itajaí Mirim,WhatsApp,Qualificado
+191,2026-01-24,Eletromecânica,Oeste,WhatsApp,Novo
+192,2026-03-02,Logística,Oeste,Facebook,Qualificado
+193,2026-03-27,Administração,Centro - Norte,Facebook,Convertido
+194,2026-03-30,Marketing,Foz do Rio Itajaí,WhatsApp,Novo
+195,2026-02-28,Administração,Norte - Nordeste,Facebook,Qualificado
+196,2026-01-15,Marketing,Sul,Google,Convertido
+197,2026-02-22,Administração,Centro - Oeste,Indicação,Qualificado
+198,2026-03-21,Marketing,Vale do Itajaí Mirim,WhatsApp,Novo
+199,2026-01-27,Logística,Sul,Instagram,Qualificado
+200,2026-02-26,Marketing,Alto Vale do Itajaí,Google,Contato
+201,2026-04-01,TI,Foz do Rio Itajaí,Indicação,Novo
+202,2026-03-12,Marketing,Alto Vale do Itajaí,Instagram,Novo
+203,2026-03-01,Administração,Vale do Itajaí Mirim,Instagram,Convertido
+204,2026-04-30,Logística,Sul,Facebook,Convertido
+205,2026-04-17,Marketing,Planalto Norte,Instagram,Convertido
+206,2026-03-12,TI,Oeste,Instagram,Contato
+207,2026-04-21,Administração,Foz do Rio Itajaí,WhatsApp,Qualificado
+208,2026-04-30,Eletromecânica,Foz do Rio Itajaí,Google,Qualificado
+209,2026-04-03,Logística,Sudeste,Indicação,Convertido
+210,2026-04-21,TI,Planalto Norte,Indicação,Convertido
+211,2026-02-14,Logística,Sul,Indicação,Convertido
+212,2026-02-28,Logística,Centro - Oeste,Instagram,Convertido
+213,2026-01-30,Marketing,Alto Uruguai Catarinense,Facebook,Convertido
+214,2026-04-01,Marketing,Oeste,Instagram,Convertido
+215,2026-01-05,TI,Sul,Indicação,Qualificado
+216,2026-04-22,Administração,Planalto Norte,Google,Convertido
+217,2026-01-02,TI,Oeste,Instagram,Novo
+218,2026-03-02,Logística,Norte - Nordeste,Indicação,Convertido
+219,2026-03-25,Administração,Norte - Nordeste,Indicação,Convertido
+220,2026-02-10,Marketing,Sul,Google,Novo
+221,2026-01-31,Logística,Centro - Oeste,Google,Convertido
+222,2026-01-13,Administração,Planalto Norte,Instagram,Qualificado
+223,2026-04-26,Administração,Alto Uruguai Catarinense,Facebook,Novo
+224,2026-02-07,Logística,Norte - Nordeste,WhatsApp,Contato
+225,2026-02-01,Eletromecânica,Oeste,Indicação,Contato
+226,2026-01-22,TI,Alto Vale do Itajaí,Indicação,Convertido
+227,2026-03-21,TI,Planalto Norte,Indicação,Contato
+228,2026-01-30,Marketing,Vale do Itajaí Mirim,Facebook,Convertido
+229,2026-02-02,Administração,Planalto Norte,Facebook,Contato
+230,2026-01-10,Marketing,Norte - Nordeste,Indicação,Qualificado
+231,2026-03-23,Marketing,Foz do Rio Itajaí,WhatsApp,Qualificado
+232,2026-01-26,Marketing,Planalto Norte,Google,Contato
+233,2026-02-18,Eletromecânica,Norte - Nordeste,Indicação,Qualificado
+234,2026-03-31,Logística,Alto Uruguai Catarinense,WhatsApp,Qualificado
+235,2026-01-02,Eletromecânica,Vale do Itajaí Mirim,Google,Convertido
+236,2026-04-17,Logística,Centro - Oeste,Indicação,Qualificado
+237,2026-01-29,TI,Sudeste,Facebook,Contato
+238,2026-03-22,Administração,Vale do Itajaí Mirim,Google,Qualificado
+239,2026-04-11,Marketing,Alto Uruguai Catarinense,Indicação,Qualificado
+240,2026-04-04,TI,Alto Vale do Itajaí,Facebook,Qualificado
+241,2026-04-06,Marketing,Centro - Norte,Instagram,Contato
+242,2026-04-11,Eletromecânica,Norte - Nordeste,Indicação,Qualificado
+243,2026-04-17,TI,Foz do Rio Itajaí,WhatsApp,Qualificado
+244,2026-04-06,Logística,Alto Vale do Itajaí,WhatsApp,Novo
+245,2026-01-19,TI,Vale do Itajaí Mirim,WhatsApp,Qualificado
+246,2026-01-12,Marketing,Alto Uruguai Catarinense,Facebook,Novo
+247,2026-02-28,Logística,Vale do Itajaí Mirim,Facebook,Convertido
+248,2026-04-16,Logística,Alto Vale do Itajaí,Instagram,Convertido
+249,2026-01-04,Eletromecânica,Sul,Facebook,Contato
+250,2026-03-24,Administração,Vale do Itajaí Mirim,WhatsApp,Qualificado
+251,2026-03-25,Marketing,Alto Vale do Itajaí,Instagram,Novo
+252,2026-01-05,Logística,Planalto Norte,Google,Novo
+253,2026-01-31,Eletromecânica,Centro - Norte,WhatsApp,Convertido
+254,2026-02-17,Eletromecânica,Oeste,Indicação,Contato
+255,2026-04-24,Marketing,Vale do Itajaí Mirim,Google,Convertido
+256,2026-03-20,Marketing,Foz do Rio Itajaí,Google,Qualificado
+257,2026-01-28,Marketing,Planalto Norte,Instagram,Qualificado
+258,2026-01-13,Logística,Sul,Facebook,Novo
+259,2026-02-20,Logística,Centro - Oeste,Google,Convertido
+260,2026-01-12,TI,Vale do Itajaí Mirim,Indicação,Novo
+261,2026-01-07,Logística,Centro - Oeste,Instagram,Contato
+262,2026-01-09,Eletromecânica,Centro - Oeste,Indicação,Contato
+263,2026-04-15,TI,Norte - Nordeste,Instagram,Novo
+264,2026-02-05,TI,Centro - Norte,Indicação,Qualificado
+265,2026-04-13,TI,Alto Vale do Itajaí,Google,Contato
+266,2026-01-02,Logística,Centro - Oeste,Indicação,Qualificado
+267,2026-01-03,TI,Foz do Rio Itajaí,Google,Contato
+268,2026-04-05,Marketing,Sul,Google,Novo
+269,2026-03-02,Marketing,Norte - Nordeste,Indicação,Novo
+270,2026-02-27,Eletromecânica,Centro - Oeste,Indicação,Novo
+271,2026-04-04,Eletromecânica,Foz do Rio Itajaí,WhatsApp,Novo
+272,2026-01-08,Marketing,Oeste,WhatsApp,Novo
+273,2026-03-04,Marketing,Alto Vale do Itajaí,Google,Qualificado
+274,2026-03-19,TI,Alto Vale do Itajaí,Instagram,Qualificado
+275,2026-03-21,Eletromecânica,Sul,Facebook,Convertido
+276,2026-03-18,Eletromecânica,Foz do Rio Itajaí,WhatsApp,Convertido
+277,2026-01-13,Administração,Vale do Itajaí Mirim,Indicação,Contato
+278,2026-02-25,Marketing,Centro - Oeste,WhatsApp,Qualificado
+279,2026-04-16,Marketing,Oeste,WhatsApp,Novo
+280,2026-02-10,Marketing,Norte - Nordeste,Facebook,Qualificado
+281,2026-01-20,Marketing,Alto Vale do Itajaí,Google,Novo
+282,2026-01-12,Marketing,Alto Vale do Itajaí,Facebook,Contato
+283,2026-03-13,Administração,Sudeste,Indicação,Qualificado
+284,2026-03-27,Administração,Oeste,Facebook,Convertido
+285,2026-04-22,Administração,Foz do Rio Itajaí,Indicação,Qualificado
+286,2026-02-15,Administração,Sudeste,Indicação,Contato
+287,2026-01-20,Marketing,Centro - Oeste,Google,Qualificado
+288,2026-04-19,Eletromecânica,Norte - Nordeste,Google,Qualificado
+289,2026-03-15,TI,Oeste,Indicação,Novo
+290,2026-03-19,Logística,Alto Uruguai Catarinense,Instagram,Qualificado
+291,2026-03-31,Logística,Norte - Nordeste,Facebook,Novo
+292,2026-01-24,TI,Sudeste,WhatsApp,Novo
+293,2026-01-19,Administração,Alto Vale do Itajaí,Indicação,Contato
+294,2026-02-18,Marketing,Planalto Norte,Facebook,Contato
+295,2026-02-17,Logística,Norte - Nordeste,Indicação,Novo
+296,2026-04-24,Administração,Centro - Norte,Instagram,Novo
+297,2026-03-28,Administração,Foz do Rio Itajaí,WhatsApp,Convertido
+298,2026-03-04,Eletromecânica,Planalto Norte,WhatsApp,Qualificado
+299,2026-01-28,Eletromecânica,Alto Vale do Itajaí,Facebook,Convertido
+300,2026-01-15,Logística,Vale do Itajaí Mirim,Indicação,Convertido
+301,2026-03-09,Logística,Alto Uruguai Catarinense,Instagram,Convertido
+302,2026-03-18,Administração,Alto Uruguai Catarinense,Instagram,Qualificado
+303,2026-01-28,TI,Foz do Rio Itajaí,Facebook,Qualificado
+304,2026-01-16,Administração,Planalto Norte,WhatsApp,Contato
+305,2026-01-17,Marketing,Sul,Instagram,Qualificado
+306,2026-01-10,Marketing,Alto Uruguai Catarinense,WhatsApp,Novo
+307,2026-02-28,Administração,Norte - Nordeste,Indicação,Convertido
+308,2026-03-15,Marketing,Vale do Itajaí Mirim,WhatsApp,Qualificado
+309,2026-01-15,Marketing,Alto Uruguai Catarinense,Facebook,Contato
+310,2026-04-13,Eletromecânica,Planalto Norte,Facebook,Novo
+311,2026-02-25,Administração,Centro - Oeste,WhatsApp,Convertido
+312,2026-03-09,Administração,Oeste,Facebook,Qualificado
+313,2026-01-29,Logística,Centro - Norte,Google,Novo
+314,2026-03-09,Eletromecânica,Centro - Oeste,Facebook,Qualificado
+315,2026-04-04,TI,Centro - Oeste,Google,Contato
+316,2026-02-02,TI,Centro - Norte,Indicação,Contato
+317,2026-04-08,Administração,Centro - Norte,WhatsApp,Convertido
+318,2026-04-07,Eletromecânica,Sudeste,WhatsApp,Qualificado
+319,2026-04-21,Logística,Centro - Norte,WhatsApp,Novo
+320,2026-03-02,Marketing,Vale do Itajaí Mirim,Facebook,Qualificado
+321,2026-03-17,Administração,Norte - Nordeste,Indicação,Novo
+322,2026-02-09,Marketing,Planalto Norte,Google,Novo
+323,2026-02-17,Logística,Alto Vale do Itajaí,Google,Convertido
+324,2026-03-01,Eletromecânica,Sul,Google,Convertido
+325,2026-04-27,Eletromecânica,Vale do Itajaí Mirim,Instagram,Qualificado
+326,2026-03-19,Marketing,Sul,Instagram,Novo
+327,2026-02-27,Administração,Norte - Nordeste,Google,Contato
+328,2026-01-06,TI,Planalto Norte,WhatsApp,Contato
+329,2026-02-16,Logística,Foz do Rio Itajaí,WhatsApp,Convertido
+330,2026-04-10,Logística,Vale do Itajaí Mirim,Indicação,Novo
+331,2026-04-12,Logística,Alto Vale do Itajaí,Facebook,Novo
+332,2026-03-13,Marketing,Foz do Rio Itajaí,Facebook,Contato
+333,2026-02-12,Administração,Sudeste,Instagram,Qualificado
+334,2026-02-09,Marketing,Centro - Norte,Indicação,Novo
+335,2026-02-09,Eletromecânica,Oeste,Facebook,Contato
+336,2026-03-27,Eletromecânica,Alto Vale do Itajaí,WhatsApp,Qualificado
+337,2026-01-03,Logística,Foz do Rio Itajaí,Instagram,Contato
+338,2026-02-13,Marketing,Centro - Oeste,Instagram,Contato
+339,2026-01-20,Administração,Foz do Rio Itajaí,Google,Novo
+340,2026-03-26,Logística,Sudeste,Instagram,Convertido
+341,2026-01-20,TI,Centro - Norte,Indicação,Contato
+342,2026-04-03,Marketing,Alto Uruguai Catarinense,WhatsApp,Qualificado
+343,2026-03-28,TI,Planalto Norte,Indicação,Qualificado
+344,2026-04-07,Marketing,Centro - Oeste,Indicação,Contato
+345,2026-02-09,Marketing,Centro - Oeste,Facebook,Convertido
+346,2026-03-01,Logística,Oeste,Indicação,Convertido
+347,2026-01-21,TI,Sudeste,Instagram,Qualificado
+348,2026-01-07,Marketing,Norte - Nordeste,Indicação,Novo
+349,2026-04-02,Eletromecânica,Alto Vale do Itajaí,Facebook,Novo
+350,2026-04-08,TI,Foz do Rio Itajaí,WhatsApp,Contato
+351,2026-04-17,Marketing,Alto Vale do Itajaí,Instagram,Convertido
+352,2026-04-24,Logística,Alto Uruguai Catarinense,WhatsApp,Novo
+353,2026-02-20,Eletromecânica,Norte - Nordeste,Instagram,Convertido
+354,2026-01-11,Logística,Centro - Oeste,Google,Qualificado
+355,2026-04-30,Administração,Vale do Itajaí Mirim,Facebook,Contato
+356,2026-01-18,Administração,Foz do Rio Itajaí,WhatsApp,Contato
+357,2026-04-08,Marketing,Planalto Norte,Indicação,Novo
+358,2026-04-26,Administração,Alto Uruguai Catarinense,Facebook,Contato
+359,2026-04-17,TI,Sul,Indicação,Convertido
+360,2026-01-15,Logística,Centro - Oeste,Facebook,Novo
+361,2026-01-07,TI,Oeste,Indicação,Convertido
+362,2026-01-09,Administração,Planalto Norte,Indicação,Novo
+363,2026-03-22,Eletromecânica,Sudeste,Instagram,Contato
+364,2026-02-07,Marketing,Alto Uruguai Catarinense,Indicação,Qualificado
+365,2026-01-31,Eletromecânica,Oeste,Instagram,Novo
+366,2026-03-09,Logística,Alto Vale do Itajaí,Indicação,Novo
+367,2026-02-19,Marketing,Alto Uruguai Catarinense,WhatsApp,Qualificado
+368,2026-02-02,Administração,Norte - Nordeste,Google,Qualificado
+369,2026-01-31,Administração,Sudeste,Facebook,Contato
+370,2026-01-06,Logística,Sul,Facebook,Contato
+371,2026-04-17,Marketing,Planalto Norte,Instagram,Contato
+372,2026-01-09,Marketing,Alto Uruguai Catarinense,Facebook,Contato
+373,2026-01-06,TI,Alto Uruguai Catarinense,Facebook,Qualificado
+374,2026-03-07,Marketing,Sul,WhatsApp,Qualificado
+375,2026-01-05,TI,Foz do Rio Itajaí,Facebook,Novo
+376,2026-04-21,Logística,Foz do Rio Itajaí,Google,Qualificado
+377,2026-02-25,Marketing,Planalto Norte,WhatsApp,Qualificado
+378,2026-01-24,Marketing,Planalto Norte,Facebook,Qualificado
+379,2026-04-13,Administração,Oeste,Google,Convertido
+380,2026-03-19,TI,Sul,Facebook,Qualificado
+381,2026-01-14,Administração,Norte - Nordeste,Facebook,Qualificado
+382,2026-02-27,Eletromecânica,Oeste,Instagram,Convertido
+383,2026-02-14,Marketing,Alto Uruguai Catarinense,Facebook,Convertido
+384,2026-02-05,Administração,Alto Vale do Itajaí,WhatsApp,Qualificado
+385,2026-03-07,TI,Alto Uruguai Catarinense,Instagram,Convertido
+386,2026-01-05,TI,Alto Vale do Itajaí,Instagram,Qualificado
+387,2026-02-16,Marketing,Sudeste,Google,Contato
+388,2026-03-28,Marketing,Norte - Nordeste,Facebook,Convertido
+389,2026-04-08,Administração,Sudeste,Instagram,Qualificado
+390,2026-02-20,Logística,Vale do Itajaí Mirim,Facebook,Contato
+391,2026-01-15,Administração,Centro - Norte,WhatsApp,Convertido
+392,2026-04-27,Eletromecânica,Alto Vale do Itajaí,Facebook,Qualificado
+393,2026-04-01,Marketing,Centro - Oeste,Indicação,Qualificado
+394,2026-03-30,Marketing,Centro - Oeste,Google,Contato
+395,2026-04-20,Administração,Planalto Norte,Instagram,Convertido
+396,2026-01-12,Logística,Vale do Itajaí Mirim,Facebook,Novo
+397,2026-03-12,Eletromecânica,Foz do Rio Itajaí,Facebook,Contato
+398,2026-04-02,TI,Norte - Nordeste,Indicação,Contato
+399,2026-01-16,TI,Centro - Norte,Instagram,Convertido
+400,2026-01-04,Logística,Sul,Indicação,Qualificado
