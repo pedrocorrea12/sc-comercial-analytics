@@ -1,0 +1,10 @@
+# Python
+*.pyc
+__pycache__/
+
+# Outputs / temporários
+*.png
+*.html
+*.xlsx
+*.zip
+_ibge_sc_temp/

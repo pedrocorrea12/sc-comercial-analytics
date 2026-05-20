@@ -1,0 +1,301 @@
+﻿inscrito_id,lead_id,data_inscricao,curso,regional,etapa
+1,1,06/03/2026,Eletromecânica,Centro - Norte,Inscrito
+2,2,25/03/2026,Administração,Alto Vale Do Itajaí,Inscrito
+3,3,14/02/2026,Marketing,Planalto Norte,Inscrito
+4,4,14/03/2026,Marketing,Oeste,Inscrito
+5,5,21/04/2026,Eletromecânica,Alto Vale Do Itajaí,Inscrito
+6,6,22/01/2026,Logística,Vale Do Itajaí Mirim,Inscrito
+7,7,15/01/2026,Marketing,Planalto Norte,Inscrito
+8,8,03/04/2026,Eletromecânica,Norte - Nordeste,Inscrito
+9,9,22/01/2026,Eletromecânica,Vale Do Itajaí Mirim,Inscrito
+10,10,22/03/2026,TI,Centro - Norte,Inscrito
+11,11,02/03/2026,Eletromecânica,Alto Uruguai Catarinense,Inscrito
+12,12,22/04/2026,Administração,Sul,Inscrito
+13,13,25/01/2026,Logística,Centro - Norte,Inscrito
+14,14,26/01/2026,Logística,Centro - Oeste,Inscrito
+15,15,19/02/2026,Eletromecânica,Foz Do Rio Itajaí,Inscrito
+16,16,24/04/2026,Administração,Foz Do Rio Itajaí,Inscrito
+17,17,31/01/2026,Eletromecânica,Foz Do Rio Itajaí,Inscrito
+18,18,22/01/2026,Logística,Sudeste,Inscrito
+19,19,15/03/2026,Administração,Sul,Inscrito
+20,20,29/03/2026,TI,Sudeste,Inscrito
+21,21,06/05/2026,Eletromecânica,Centro - Norte,Inscrito
+22,22,27/01/2026,Eletromecânica,Sudeste,Inscrito
+23,23,18/02/2026,Eletromecânica,Alto Uruguai Catarinense,Inscrito
+24,24,21/04/2026,Administração,Alto Vale Do Itajaí,Inscrito
+25,25,11/01/2026,Eletromecânica,Foz Do Rio Itajaí,Inscrito
+26,26,30/03/2026,TI,Sudeste,Inscrito
+27,27,28/02/2026,Eletromecânica,Vale Do Itajaí Mirim,Inscrito
+28,28,09/01/2026,Marketing,Vale Do Itajaí Mirim,Inscrito
+29,29,16/03/2026,Logística,Vale Do Itajaí Mirim,Inscrito
+30,30,13/02/2026,Marketing,Centro - Oeste,Inscrito
+31,31,19/04/2026,Marketing,Foz Do Rio Itajaí,Inscrito
+32,32,05/03/2026,Administração,Alto Uruguai Catarinense,Inscrito
+33,33,26/01/2026,Marketing,Oeste,Inscrito
+34,34,08/03/2026,Marketing,Centro - Oeste,Inscrito
+35,35,18/02/2026,Eletromecânica,Centro - Norte,Inscrito
+36,36,15/02/2026,Logística,Norte - Nordeste,Inscrito
+37,37,26/02/2026,TI,Norte - Nordeste,Inscrito
+38,38,12/03/2026,Eletromecânica,Alto Vale Do Itajaí,Inscrito
+39,39,15/02/2026,TI,Planalto Norte,Inscrito
+40,40,21/01/2026,Logística,Planalto Norte,Inscrito
+41,41,06/02/2026,TI,Alto Vale Do Itajaí,Inscrito
+42,42,12/01/2026,Logística,Oeste,Inscrito
+43,43,26/04/2026,Eletromecânica,Oeste,Inscrito
+44,44,06/02/2026,TI,Norte - Nordeste,Inscrito
+45,45,05/05/2026,Eletromecânica,Norte - Nordeste,Inscrito
+46,46,30/01/2026,TI,Planalto Norte,Inscrito
+47,47,12/03/2026,Marketing,Planalto Norte,Inscrito
+48,48,28/04/2026,Logística,Planalto Norte,Inscrito
+49,49,08/01/2026,Administração,Oeste,Inscrito
+50,50,11/03/2026,Marketing,Centro - Oeste,Inscrito
+51,51,02/02/2026,Eletromecânica,Norte - Nordeste,Inscrito
+52,52,12/01/2026,Administração,Foz Do Rio Itajaí,Inscrito
+53,53,10/03/2026,Eletromecânica,Vale Do Itajaí Mirim,Inscrito
+54,54,02/04/2026,Marketing,Foz Do Rio Itajaí,Inscrito
+55,55,15/03/2026,Administração,Alto Vale Do Itajaí,Inscrito
+56,56,02/03/2026,TI,Foz Do Rio Itajaí,Inscrito
+57,57,09/04/2026,Logística,Oeste,Inscrito
+58,58,21/02/2026,Administração,Oeste,Inscrito
+59,59,12/01/2026,Eletromecânica,Sul,Inscrito
+60,60,30/01/2026,Logística,Sul,Inscrito
+61,61,11/02/2026,Administração,Oeste,Inscrito
+62,62,11/03/2026,Marketing,Sul,Inscrito
+63,63,10/02/2026,Eletromecânica,Vale Do Itajaí Mirim,Inscrito
+64,64,25/03/2026,Administração,Centro - Norte,Inscrito
+65,65,18/01/2026,Marketing,Norte - Nordeste,Inscrito
+66,66,17/04/2026,Logística,Sul,Inscrito
+67,67,06/05/2026,Logística,Centro - Norte,Inscrito
+68,68,31/01/2026,Eletromecânica,Sul,Inscrito
+69,69,26/02/2026,Eletromecânica,Alto Uruguai Catarinense,Inscrito
+70,70,11/01/2026,Administração,Centro - Norte,Inscrito
+71,71,07/04/2026,Logística,Planalto Norte,Inscrito
+72,72,13/03/2026,Marketing,Centro - Norte,Inscrito
+73,73,24/03/2026,Eletromecânica,Centro - Norte,Inscrito
+74,74,16/02/2026,Eletromecânica,Norte - Nordeste,Inscrito
+75,75,26/01/2026,Marketing,Sudeste,Inscrito
+76,76,10/04/2026,Logística,Sudeste,Inscrito
+77,77,18/02/2026,Eletromecânica,Sul,Inscrito
+78,78,15/03/2026,Marketing,Sudeste,Inscrito
+79,79,13/02/2026,Marketing,Alto Uruguai Catarinense,Inscrito
+80,80,22/02/2026,Logística,Vale Do Itajaí Mirim,Inscrito
+81,81,20/01/2026,Marketing,Sudeste,Inscrito
+82,82,14/02/2026,Administração,Sudeste,Inscrito
+83,83,07/03/2026,Logística,Vale Do Itajaí Mirim,Inscrito
+84,84,16/04/2026,Eletromecânica,Sudeste,Inscrito
+85,85,04/02/2026,Administração,Sudeste,Inscrito
+86,86,08/03/2026,TI,Sul,Inscrito
+87,87,27/03/2026,Eletromecânica,Oeste,Inscrito
+88,88,24/01/2026,TI,Alto Uruguai Catarinense,Inscrito
+89,89,20/03/2026,Administração,Centro - Oeste,Inscrito
+90,90,08/01/2026,Marketing,Norte - Nordeste,Inscrito
+91,91,28/02/2026,TI,Oeste,Inscrito
+92,92,04/04/2026,TI,Oeste,Inscrito
+93,93,11/03/2026,Eletromecânica,Planalto Norte,Inscrito
+94,94,27/04/2026,Administração,Centro - Norte,Inscrito
+95,95,13/03/2026,TI,Sul,Inscrito
+96,96,16/02/2026,Marketing,Sul,Inscrito
+97,97,23/02/2026,Logística,Centro - Norte,Inscrito
+98,98,05/03/2026,Eletromecânica,Norte - Nordeste,Inscrito
+99,99,16/03/2026,Logística,Vale Do Itajaí Mirim,Inscrito
+100,100,14/04/2026,Logística,Sudeste,Inscrito
+101,101,08/03/2026,TI,Centro - Oeste,Inscrito
+102,102,10/02/2026,Eletromecânica,Foz Do Rio Itajaí,Inscrito
+103,103,03/02/2026,Logística,Foz Do Rio Itajaí,Inscrito
+104,104,06/04/2026,TI,Planalto Norte,Inscrito
+105,105,15/02/2026,Marketing,Norte - Nordeste,Inscrito
+106,106,18/03/2026,Logística,Foz Do Rio Itajaí,Inscrito
+107,107,21/01/2026,Eletromecânica,Vale Do Itajaí Mirim,Inscrito
+108,108,16/03/2026,Marketing,Oeste,Inscrito
+109,109,20/04/2026,Logística,Centro - Norte,Inscrito
+110,110,12/02/2026,Administração,Foz Do Rio Itajaí,Inscrito
+111,111,07/04/2026,Administração,Norte - Nordeste,Inscrito
+112,112,04/05/2026,Marketing,Vale Do Itajaí Mirim,Inscrito
+113,113,07/02/2026,Marketing,Centro - Oeste,Inscrito
+114,114,31/01/2026,Eletromecânica,Foz Do Rio Itajaí,Inscrito
+115,115,05/05/2026,Eletromecânica,Foz Do Rio Itajaí,Inscrito
+116,116,23/01/2026,Administração,Sudeste,Inscrito
+117,117,10/04/2026,Eletromecânica,Centro - Oeste,Inscrito
+118,118,06/02/2026,Administração,Vale Do Itajaí Mirim,Inscrito
+119,119,01/05/2026,Eletromecânica,Centro - Oeste,Inscrito
+120,120,28/03/2026,TI,Alto Uruguai Catarinense,Inscrito
+121,121,18/01/2026,Marketing,Norte - Nordeste,Inscrito
+122,122,07/04/2026,Marketing,Alto Vale Do Itajaí,Inscrito
+123,123,03/04/2026,TI,Alto Uruguai Catarinense,Inscrito
+124,124,17/03/2026,TI,Oeste,Inscrito
+125,125,30/03/2026,Marketing,Planalto Norte,Inscrito
+126,126,30/03/2026,TI,Foz Do Rio Itajaí,Inscrito
+127,127,16/02/2026,Logística,Vale Do Itajaí Mirim,Inscrito
+128,128,13/01/2026,Administração,Vale Do Itajaí Mirim,Inscrito
+129,129,20/03/2026,TI,Sul,Inscrito
+130,130,10/04/2026,Administração,Centro - Norte,Inscrito
+131,131,28/02/2026,TI,Alto Uruguai Catarinense,Inscrito
+132,132,23/04/2026,Marketing,Planalto Norte,Inscrito
+133,133,29/01/2026,Logística,Alto Uruguai Catarinense,Inscrito
+134,134,07/01/2026,Logística,Sudeste,Inscrito
+135,135,24/03/2026,Administração,Norte - Nordeste,Inscrito
+136,136,11/02/2026,Marketing,Vale Do Itajaí Mirim,Inscrito
+137,137,16/03/2026,Eletromecânica,Planalto Norte,Inscrito
+138,138,29/04/2026,TI,Sul,Inscrito
+139,139,06/03/2026,Logística,Centro - Oeste,Inscrito
+140,140,19/04/2026,Administração,Norte - Nordeste,Inscrito
+141,141,26/01/2026,Marketing,Vale Do Itajaí Mirim,Inscrito
+142,142,07/02/2026,TI,Alto Uruguai Catarinense,Inscrito
+143,143,10/04/2026,Logística,Foz Do Rio Itajaí,Inscrito
+144,144,19/03/2026,TI,Centro - Norte,Inscrito
+145,145,25/03/2026,Marketing,Oeste,Inscrito
+146,146,12/03/2026,Logística,Alto Vale Do Itajaí,Inscrito
+147,147,26/02/2026,Administração,Centro - Norte,Inscrito
+148,148,23/01/2026,Marketing,Norte - Nordeste,Inscrito
+149,149,05/05/2026,TI,Alto Uruguai Catarinense,Inscrito
+150,150,08/02/2026,Marketing,Centro - Oeste,Inscrito
+151,151,04/03/2026,Logística,Norte - Nordeste,Inscrito
+152,152,13/02/2026,Eletromecânica,Sudeste,Inscrito
+153,153,07/01/2026,Logística,Vale Do Itajaí Mirim,Inscrito
+154,154,21/02/2026,TI,Alto Uruguai Catarinense,Inscrito
+155,155,01/04/2026,Administração,Planalto Norte,Inscrito
+156,156,14/02/2026,TI,Oeste,Inscrito
+157,157,03/04/2026,Eletromecânica,Foz Do Rio Itajaí,Inscrito
+158,158,04/04/2026,Administração,Vale Do Itajaí Mirim,Inscrito
+159,159,03/05/2026,Logística,Norte - Nordeste,Inscrito
+160,160,25/03/2026,TI,Centro - Oeste,Inscrito
+161,161,23/01/2026,Marketing,Centro - Norte,Inscrito
+162,162,05/03/2026,Eletromecânica,Norte - Nordeste,Inscrito
+163,163,28/02/2026,Eletromecânica,Planalto Norte,Inscrito
+164,164,12/04/2026,Eletromecânica,Vale Do Itajaí Mirim,Inscrito
+165,165,21/04/2026,TI,Centro - Oeste,Inscrito
+166,166,03/04/2026,Eletromecânica,Alto Vale Do Itajaí,Inscrito
+167,167,14/03/2026,Marketing,Sul,Inscrito
+168,168,06/04/2026,Logística,Alto Vale Do Itajaí,Inscrito
+169,169,03/05/2026,Eletromecânica,Alto Vale Do Itajaí,Inscrito
+170,170,13/01/2026,Eletromecânica,Sul,Inscrito
+171,171,31/01/2026,Eletromecânica,Sul,Inscrito
+172,172,25/01/2026,TI,Norte - Nordeste,Inscrito
+173,173,25/04/2026,Eletromecânica,Planalto Norte,Inscrito
+174,174,20/01/2026,TI,Sudeste,Inscrito
+175,175,09/03/2026,Administração,Sul,Inscrito
+176,176,04/03/2026,Administração,Planalto Norte,Inscrito
+177,177,22/01/2026,Eletromecânica,Oeste,Inscrito
+178,178,05/03/2026,Eletromecânica,Alto Uruguai Catarinense,Inscrito
+179,179,18/03/2026,Marketing,Vale Do Itajaí Mirim,Inscrito
+180,180,19/04/2026,Logística,Alto Uruguai Catarinense,Inscrito
+181,181,25/02/2026,Logística,Alto Uruguai Catarinense,Inscrito
+182,182,11/04/2026,TI,Sudeste,Inscrito
+183,183,15/01/2026,Administração,Oeste,Inscrito
+184,184,19/02/2026,Administração,Sul,Inscrito
+185,185,13/01/2026,Administração,Planalto Norte,Inscrito
+186,186,10/01/2026,Logística,Oeste,Inscrito
+187,187,29/01/2026,TI,Vale Do Itajaí Mirim,Inscrito
+188,188,09/04/2026,Marketing,Norte - Nordeste,Inscrito
+189,189,30/04/2026,Marketing,Planalto Norte,Inscrito
+190,190,27/04/2026,Marketing,Oeste,Inscrito
+191,191,16/01/2026,Eletromecânica,Centro - Norte,Inscrito
+192,192,30/03/2026,Logística,Alto Vale Do Itajaí,Inscrito
+193,193,28/01/2026,Eletromecânica,Oeste,Inscrito
+194,194,14/03/2026,TI,Centro - Oeste,Inscrito
+195,195,22/04/2026,Administração,Alto Uruguai Catarinense,Inscrito
+196,196,13/02/2026,Marketing,Vale Do Itajaí Mirim,Inscrito
+197,197,08/04/2026,Eletromecânica,Oeste,Inscrito
+198,198,15/03/2026,Marketing,Centro - Oeste,Inscrito
+199,199,06/02/2026,Marketing,Norte - Nordeste,Inscrito
+200,200,25/01/2026,Logística,Centro - Oeste,Inscrito
+201,201,05/05/2026,Administração,Alto Uruguai Catarinense,Inscrito
+202,202,19/04/2026,Marketing,Sudeste,Inscrito
+203,203,14/04/2026,Administração,Centro - Oeste,Inscrito
+204,204,01/02/2026,Administração,Alto Vale Do Itajaí,Inscrito
+205,205,23/03/2026,Administração,Planalto Norte,Inscrito
+206,206,23/03/2026,Administração,Centro - Oeste,Inscrito
+207,207,10/04/2026,Administração,Oeste,Inscrito
+208,208,03/03/2026,TI,Sul,Inscrito
+209,209,02/02/2026,Administração,Centro - Norte,Inscrito
+210,210,11/03/2026,Logística,Centro - Oeste,Inscrito
+211,211,20/04/2026,Eletromecânica,Norte - Nordeste,Inscrito
+212,212,20/03/2026,Eletromecânica,Vale Do Itajaí Mirim,Inscrito
+213,213,20/04/2026,Logística,Centro - Oeste,Inscrito
+214,214,13/02/2026,TI,Vale Do Itajaí Mirim,Inscrito
+215,215,13/03/2026,TI,Oeste,Inscrito
+216,216,13/02/2026,Logística,Alto Uruguai Catarinense,Inscrito
+217,217,18/03/2026,Eletromecânica,Centro - Norte,Inscrito
+218,218,27/03/2026,Marketing,Sul,Inscrito
+219,219,10/03/2026,Administração,Norte - Nordeste,Inscrito
+220,220,06/05/2026,Marketing,Sul,Inscrito
+221,221,15/02/2026,Marketing,Oeste,Inscrito
+222,222,25/01/2026,Logística,Oeste,Inscrito
+223,223,29/01/2026,Eletromecânica,Planalto Norte,Inscrito
+224,224,05/02/2026,TI,Foz Do Rio Itajaí,Inscrito
+225,225,25/04/2026,TI,Planalto Norte,Inscrito
+226,226,03/05/2026,Administração,Sul,Inscrito
+227,227,27/02/2026,Marketing,Sul,Inscrito
+228,228,14/03/2026,TI,Oeste,Inscrito
+229,229,06/02/2026,Logística,Centro - Oeste,Inscrito
+230,230,17/02/2026,Administração,Planalto Norte,Inscrito
+231,231,24/04/2026,Logística,Alto Vale Do Itajaí,Inscrito
+232,232,15/03/2026,TI,Alto Uruguai Catarinense,Inscrito
+233,233,09/02/2026,Marketing,Vale Do Itajaí Mirim,Inscrito
+234,234,24/03/2026,Eletromecânica,Alto Uruguai Catarinense,Inscrito
+235,235,27/04/2026,Administração,Centro - Oeste,Inscrito
+236,236,18/04/2026,Eletromecânica,Vale Do Itajaí Mirim,Inscrito
+237,237,18/03/2026,TI,Planalto Norte,Inscrito
+238,238,01/02/2026,Logística,Foz Do Rio Itajaí,Inscrito
+239,239,02/05/2026,Administração,Centro - Oeste,Inscrito
+240,240,05/05/2026,TI,Alto Vale Do Itajaí,Inscrito
+241,241,11/04/2026,Marketing,Centro - Oeste,Inscrito
+242,242,05/04/2026,Eletromecânica,Centro - Oeste,Inscrito
+243,243,25/02/2026,TI,Sul,Inscrito
+244,244,16/02/2026,Logística,Oeste,Inscrito
+245,245,06/03/2026,Eletromecânica,Vale Do Itajaí Mirim,Inscrito
+246,246,20/02/2026,Logística,Foz Do Rio Itajaí,Inscrito
+247,247,21/02/2026,Eletromecânica,Planalto Norte,Inscrito
+248,248,06/03/2026,Administração,Planalto Norte,Inscrito
+249,249,13/04/2026,Logística,Centro - Oeste,Inscrito
+250,250,22/02/2026,Logística,Oeste,Inscrito
+251,251,11/01/2026,Eletromecânica,Centro - Oeste,Inscrito
+252,252,10/04/2026,TI,Alto Uruguai Catarinense,Inscrito
+253,253,08/02/2026,Eletromecânica,Sudeste,Inscrito
+254,254,21/03/2026,Marketing,Foz Do Rio Itajaí,Inscrito
+255,255,25/01/2026,TI,Norte - Nordeste,Inscrito
+256,256,04/02/2026,Marketing,Sudeste,Inscrito
+257,257,22/04/2026,TI,Planalto Norte,Inscrito
+258,258,17/03/2026,Logística,Foz Do Rio Itajaí,Inscrito
+259,259,13/04/2026,Marketing,Vale Do Itajaí Mirim,Inscrito
+260,260,10/04/2026,Marketing,Planalto Norte,Inscrito
+261,261,27/01/2026,Logística,Centro - Norte,Inscrito
+262,262,23/01/2026,Eletromecânica,Planalto Norte,Inscrito
+263,263,29/01/2026,Eletromecânica,Vale Do Itajaí Mirim,Inscrito
+264,264,13/01/2026,Eletromecânica,Alto Uruguai Catarinense,Inscrito
+265,265,23/04/2026,Administração,Vale Do Itajaí Mirim,Inscrito
+266,266,12/01/2026,Administração,Oeste,Inscrito
+267,267,23/01/2026,TI,Alto Vale Do Itajaí,Inscrito
+268,268,06/04/2026,TI,Alto Uruguai Catarinense,Inscrito
+269,269,02/02/2026,Eletromecânica,Planalto Norte,Inscrito
+270,270,22/02/2026,Administração,Sudeste,Inscrito
+271,271,28/03/2026,Eletromecânica,Planalto Norte,Inscrito
+272,272,31/03/2026,Marketing,Alto Uruguai Catarinense,Inscrito
+273,273,06/01/2026,Eletromecânica,Sul,Inscrito
+274,274,27/02/2026,Administração,Alto Uruguai Catarinense,Inscrito
+275,275,14/03/2026,Logística,Sul,Inscrito
+276,276,11/02/2026,Administração,Sul,Inscrito
+277,277,20/04/2026,Marketing,Centro - Norte,Inscrito
+278,278,19/01/2026,Administração,Sul,Inscrito
+279,279,25/01/2026,TI,Centro - Oeste,Inscrito
+280,280,26/03/2026,Eletromecânica,Foz Do Rio Itajaí,Inscrito
+281,281,20/04/2026,Logística,Foz Do Rio Itajaí,Inscrito
+282,282,17/04/2026,Marketing,Alto Vale Do Itajaí,Inscrito
+283,283,22/02/2026,Marketing,Planalto Norte,Inscrito
+284,284,19/03/2026,TI,Centro - Oeste,Inscrito
+285,285,13/02/2026,Administração,Vale Do Itajaí Mirim,Inscrito
+286,286,25/04/2026,Administração,Alto Vale Do Itajaí,Inscrito
+287,287,26/02/2026,Marketing,Oeste,Inscrito
+288,288,17/03/2026,Marketing,Alto Uruguai Catarinense,Inscrito
+289,289,28/03/2026,Administração,Centro - Norte,Inscrito
+290,290,16/01/2026,Marketing,Oeste,Inscrito
+291,291,29/03/2026,Logística,Sudeste,Inscrito
+292,292,25/04/2026,Administração,Sul,Inscrito
+293,293,03/05/2026,Administração,Centro - Oeste,Inscrito
+294,294,02/02/2026,Eletromecânica,Planalto Norte,Inscrito
+295,295,09/02/2026,Administração,Alto Vale Do Itajaí,Inscrito
+296,296,03/04/2026,Logística,Sul,Inscrito
+297,297,19/03/2026,Administração,Centro - Norte,Inscrito
+298,298,04/05/2026,Logística,Alto Uruguai Catarinense,Inscrito
+299,299,01/02/2026,Eletromecânica,Centro - Norte,Inscrito
+300,300,12/04/2026,Marketing,Alto Vale Do Itajaí,Inscrito

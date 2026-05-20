@@ -1,0 +1,401 @@
+﻿lead_id,data_lead,curso,regional,canal,status_crm,etapa
+1,23/03/2026,Administração,Alto Uruguai Catarinense,Facebook,Contato,Lead
+2,29/01/2026,TI,Alto Vale Do Itajaí,Indicação,Novo,Lead
+3,17/03/2026,Marketing,Alto Uruguai Catarinense,Google,Novo,Lead
+4,28/01/2026,TI,Sul,Indicação,Novo,Lead
+5,13/03/2026,TI,Vale Do Itajaí Mirim,Indicação,Convertido,Lead
+6,29/01/2026,Marketing,Sudeste,Facebook,Novo,Lead
+7,08/04/2026,TI,Oeste,Facebook,Qualificado,Lead
+8,20/01/2026,TI,Norte - Nordeste,Google,Novo,Lead
+9,18/02/2026,Administração,Norte - Nordeste,Facebook,Qualificado,Lead
+10,14/04/2026,Administração,Planalto Norte,Indicação,Novo,Lead
+11,29/04/2026,Marketing,Alto Vale Do Itajaí,Indicação,Qualificado,Lead
+12,17/04/2026,Eletromecânica,Norte - Nordeste,Indicação,Contato,Lead
+13,01/04/2026,Administração,Alto Uruguai Catarinense,Instagram,Qualificado,Lead
+14,11/01/2026,TI,Alto Vale Do Itajaí,Whatsapp,Qualificado,Lead
+15,28/02/2026,Logística,Centro - Norte,Facebook,Qualificado,Lead
+16,27/01/2026,Logística,Vale Do Itajaí Mirim,Google,Contato,Lead
+17,10/03/2026,TI,Centro - Norte,Whatsapp,Convertido,Lead
+18,04/02/2026,Eletromecânica,Centro - Oeste,Facebook,Novo,Lead
+19,30/01/2026,Administração,Norte - Nordeste,Whatsapp,Qualificado,Lead
+20,09/01/2026,TI,Sudeste,Facebook,Contato,Lead
+21,25/03/2026,Marketing,Oeste,Whatsapp,Contato,Lead
+22,03/02/2026,TI,Centro - Oeste,Indicação,Qualificado,Lead
+23,06/04/2026,Eletromecânica,Oeste,Indicação,Convertido,Lead
+24,16/02/2026,TI,Centro - Norte,Indicação,Convertido,Lead
+25,12/01/2026,Administração,Alto Vale Do Itajaí,Instagram,Contato,Lead
+26,12/04/2026,Marketing,Sudeste,Google,Convertido,Lead
+27,18/02/2026,Eletromecânica,Planalto Norte,Indicação,Qualificado,Lead
+28,12/03/2026,Administração,Vale Do Itajaí Mirim,Google,Qualificado,Lead
+29,09/04/2026,Logística,Alto Vale Do Itajaí,Facebook,Convertido,Lead
+30,21/01/2026,Marketing,Alto Uruguai Catarinense,Facebook,Contato,Lead
+31,06/03/2026,Administração,Vale Do Itajaí Mirim,Facebook,Contato,Lead
+32,20/01/2026,Logística,Centro - Norte,Indicação,Novo,Lead
+33,18/03/2026,Logística,Planalto Norte,Google,Novo,Lead
+34,29/04/2026,Logística,Foz Do Rio Itajaí,Instagram,Novo,Lead
+35,31/01/2026,Eletromecânica,Alto Vale Do Itajaí,Google,Convertido,Lead
+36,15/04/2026,Administração,Sul,Instagram,Contato,Lead
+37,26/03/2026,Marketing,Sul,Instagram,Qualificado,Lead
+38,09/03/2026,Eletromecânica,Oeste,Instagram,Contato,Lead
+39,02/04/2026,Logística,Oeste,Facebook,Convertido,Lead
+40,26/04/2026,Eletromecânica,Planalto Norte,Google,Contato,Lead
+41,29/01/2026,Administração,Norte - Nordeste,Google,Contato,Lead
+42,17/03/2026,TI,Alto Uruguai Catarinense,Google,Novo,Lead
+43,30/01/2026,Administração,Alto Uruguai Catarinense,Facebook,Novo,Lead
+44,07/03/2026,TI,Foz Do Rio Itajaí,Whatsapp,Contato,Lead
+45,11/03/2026,TI,Sudeste,Indicação,Convertido,Lead
+46,01/02/2026,Marketing,Oeste,Instagram,Novo,Lead
+47,13/01/2026,Marketing,Norte - Nordeste,Whatsapp,Convertido,Lead
+48,01/03/2026,Administração,Vale Do Itajaí Mirim,Google,Novo,Lead
+49,21/02/2026,Logística,Alto Vale Do Itajaí,Instagram,Contato,Lead
+50,25/01/2026,Eletromecânica,Planalto Norte,Instagram,Convertido,Lead
+51,24/01/2026,Logística,Planalto Norte,Instagram,Novo,Lead
+52,26/02/2026,Eletromecânica,Alto Vale Do Itajaí,Google,Novo,Lead
+53,12/01/2026,TI,Centro - Norte,Whatsapp,Convertido,Lead
+54,03/03/2026,TI,Oeste,Google,Contato,Lead
+55,18/02/2026,Administração,Oeste,Facebook,Convertido,Lead
+56,06/02/2026,Marketing,Sul,Whatsapp,Contato,Lead
+57,25/01/2026,Logística,Centro - Oeste,Google,Novo,Lead
+58,06/04/2026,Logística,Alto Uruguai Catarinense,Google,Convertido,Lead
+59,06/03/2026,Eletromecânica,Centro - Norte,Google,Novo,Lead
+60,19/04/2026,TI,Alto Vale Do Itajaí,Indicação,Novo,Lead
+61,28/03/2026,TI,Oeste,Google,Contato,Lead
+62,16/03/2026,Eletromecânica,Alto Uruguai Catarinense,Indicação,Novo,Lead
+63,23/02/2026,Eletromecânica,Sudeste,Indicação,Qualificado,Lead
+64,30/04/2026,Logística,Centro - Oeste,Facebook,Contato,Lead
+65,03/02/2026,Marketing,Centro - Norte,Facebook,Convertido,Lead
+66,10/02/2026,Administração,Alto Uruguai Catarinense,Whatsapp,Novo,Lead
+67,10/01/2026,Eletromecânica,Centro - Oeste,Indicação,Qualificado,Lead
+68,17/01/2026,Logística,Alto Vale Do Itajaí,Instagram,Qualificado,Lead
+69,06/02/2026,TI,Planalto Norte,Indicação,Qualificado,Lead
+70,20/03/2026,Eletromecânica,Alto Uruguai Catarinense,Indicação,Qualificado,Lead
+71,30/04/2026,Administração,Centro - Norte,Facebook,Novo,Lead
+72,24/04/2026,Administração,Sul,Instagram,Qualificado,Lead
+73,06/02/2026,Eletromecânica,Centro - Oeste,Facebook,Contato,Lead
+74,29/03/2026,Logística,Sul,Whatsapp,Qualificado,Lead
+75,26/04/2026,Administração,Alto Vale Do Itajaí,Whatsapp,Qualificado,Lead
+76,06/01/2026,Administração,Norte - Nordeste,Instagram,Qualificado,Lead
+77,21/01/2026,Marketing,Sul,Whatsapp,Novo,Lead
+78,15/01/2026,Administração,Centro - Norte,Indicação,Novo,Lead
+79,17/04/2026,Logística,Sudeste,Indicação,Contato,Lead
+80,25/02/2026,TI,Alto Uruguai Catarinense,Facebook,Qualificado,Lead
+81,26/04/2026,Administração,Norte - Nordeste,Instagram,Contato,Lead
+82,27/03/2026,Administração,Norte - Nordeste,Indicação,Convertido,Lead
+83,21/03/2026,TI,Centro - Oeste,Instagram,Contato,Lead
+84,23/04/2026,Marketing,Alto Uruguai Catarinense,Instagram,Qualificado,Lead
+85,11/04/2026,Marketing,Vale Do Itajaí Mirim,Instagram,Qualificado,Lead
+86,21/01/2026,Administração,Oeste,Google,Convertido,Lead
+87,29/01/2026,TI,Planalto Norte,Facebook,Qualificado,Lead
+88,16/04/2026,TI,Centro - Oeste,Google,Contato,Lead
+89,21/02/2026,Logística,Foz Do Rio Itajaí,Google,Qualificado,Lead
+90,14/02/2026,Eletromecânica,Oeste,Indicação,Qualificado,Lead
+91,01/05/2026,Administração,Alto Vale Do Itajaí,Facebook,Contato,Lead
+92,16/03/2026,Logística,Alto Uruguai Catarinense,Google,Convertido,Lead
+93,14/02/2026,Logística,Oeste,Indicação,Novo,Lead
+94,19/02/2026,Eletromecânica,Centro - Oeste,Facebook,Novo,Lead
+95,01/04/2026,Marketing,Alto Uruguai Catarinense,Indicação,Contato,Lead
+96,16/02/2026,Marketing,Alto Vale Do Itajaí,Facebook,Qualificado,Lead
+97,26/03/2026,Administração,Foz Do Rio Itajaí,Indicação,Qualificado,Lead
+98,27/03/2026,Marketing,Norte - Nordeste,Whatsapp,Qualificado,Lead
+99,12/03/2026,TI,Centro - Oeste,Whatsapp,Convertido,Lead
+100,28/03/2026,TI,Sudeste,Indicação,Qualificado,Lead
+101,21/02/2026,Eletromecânica,Alto Uruguai Catarinense,Facebook,Qualificado,Lead
+102,27/01/2026,Marketing,Sudeste,Indicação,Qualificado,Lead
+103,01/03/2026,Marketing,Planalto Norte,Instagram,Convertido,Lead
+104,12/04/2026,TI,Vale Do Itajaí Mirim,Google,Qualificado,Lead
+105,07/03/2026,Eletromecânica,Norte - Nordeste,Google,Contato,Lead
+106,28/03/2026,Logística,Centro - Oeste,Instagram,Contato,Lead
+107,04/01/2026,Administração,Centro - Oeste,Whatsapp,Novo,Lead
+108,28/02/2026,Marketing,Vale Do Itajaí Mirim,Indicação,Contato,Lead
+109,02/04/2026,Marketing,Planalto Norte,Whatsapp,Contato,Lead
+110,19/01/2026,Administração,Alto Vale Do Itajaí,Whatsapp,Contato,Lead
+111,23/01/2026,Eletromecânica,Planalto Norte,Google,Contato,Lead
+112,28/04/2026,Administração,Planalto Norte,Instagram,Convertido,Lead
+113,27/03/2026,Eletromecânica,Sul,Indicação,Qualificado,Lead
+114,07/04/2026,Marketing,Sudeste,Indicação,Convertido,Lead
+115,17/04/2026,Eletromecânica,Planalto Norte,Instagram,Convertido,Lead
+116,27/02/2026,Logística,Centro - Oeste,Facebook,Convertido,Lead
+117,22/03/2026,TI,Foz Do Rio Itajaí,Whatsapp,Novo,Lead
+118,02/04/2026,Logística,Centro - Oeste,Facebook,Qualificado,Lead
+119,10/02/2026,Eletromecânica,Alto Vale Do Itajaí,Instagram,Contato,Lead
+120,30/01/2026,Marketing,Centro - Norte,Instagram,Novo,Lead
+121,23/02/2026,Marketing,Norte - Nordeste,Indicação,Convertido,Lead
+122,23/02/2026,Administração,Centro - Oeste,Whatsapp,Convertido,Lead
+123,26/04/2026,Eletromecânica,Alto Uruguai Catarinense,Indicação,Convertido,Lead
+124,03/03/2026,Administração,Norte - Nordeste,Facebook,Convertido,Lead
+125,20/04/2026,Marketing,Sul,Indicação,Contato,Lead
+126,04/03/2026,TI,Foz Do Rio Itajaí,Whatsapp,Convertido,Lead
+127,04/01/2026,Marketing,Norte - Nordeste,Whatsapp,Contato,Lead
+128,18/04/2026,Marketing,Centro - Norte,Indicação,Novo,Lead
+129,27/04/2026,Marketing,Sudeste,Indicação,Novo,Lead
+130,11/01/2026,Marketing,Centro - Norte,Whatsapp,Contato,Lead
+131,07/01/2026,Logística,Oeste,Facebook,Contato,Lead
+132,28/02/2026,Logística,Norte - Nordeste,Whatsapp,Qualificado,Lead
+133,07/04/2026,Marketing,Foz Do Rio Itajaí,Google,Convertido,Lead
+134,03/01/2026,Eletromecânica,Alto Uruguai Catarinense,Facebook,Contato,Lead
+135,25/03/2026,Administração,Vale Do Itajaí Mirim,Google,Novo,Lead
+136,01/02/2026,TI,Alto Uruguai Catarinense,Indicação,Contato,Lead
+137,31/01/2026,TI,Planalto Norte,Google,Contato,Lead
+138,01/03/2026,Logística,Norte - Nordeste,Instagram,Novo,Lead
+139,10/04/2026,TI,Foz Do Rio Itajaí,Google,Novo,Lead
+140,29/04/2026,Logística,Sudeste,Whatsapp,Convertido,Lead
+141,01/05/2026,TI,Alto Vale Do Itajaí,Indicação,Contato,Lead
+142,14/01/2026,Logística,Vale Do Itajaí Mirim,Indicação,Novo,Lead
+143,12/04/2026,Eletromecânica,Alto Uruguai Catarinense,Facebook,Convertido,Lead
+144,26/03/2026,Logística,Alto Vale Do Itajaí,Indicação,Qualificado,Lead
+145,02/01/2026,Marketing,Planalto Norte,Google,Convertido,Lead
+146,16/02/2026,Marketing,Centro - Norte,Whatsapp,Contato,Lead
+147,04/04/2026,Eletromecânica,Vale Do Itajaí Mirim,Facebook,Convertido,Lead
+148,01/03/2026,Marketing,Sudeste,Facebook,Qualificado,Lead
+149,20/04/2026,TI,Alto Vale Do Itajaí,Facebook,Convertido,Lead
+150,01/02/2026,Marketing,Sudeste,Indicação,Convertido,Lead
+151,13/02/2026,Administração,Planalto Norte,Facebook,Contato,Lead
+152,04/03/2026,TI,Norte - Nordeste,Facebook,Qualificado,Lead
+153,05/02/2026,Eletromecânica,Foz Do Rio Itajaí,Indicação,Novo,Lead
+154,08/03/2026,TI,Alto Vale Do Itajaí,Instagram,Convertido,Lead
+155,04/03/2026,Eletromecânica,Centro - Oeste,Whatsapp,Convertido,Lead
+156,27/02/2026,Administração,Alto Vale Do Itajaí,Facebook,Contato,Lead
+157,21/02/2026,TI,Foz Do Rio Itajaí,Indicação,Qualificado,Lead
+158,02/03/2026,Eletromecânica,Sul,Facebook,Convertido,Lead
+159,06/04/2026,Eletromecânica,Norte - Nordeste,Facebook,Convertido,Lead
+160,04/02/2026,Logística,Foz Do Rio Itajaí,Instagram,Novo,Lead
+161,03/04/2026,TI,Norte - Nordeste,Google,Contato,Lead
+162,25/01/2026,TI,Planalto Norte,Facebook,Qualificado,Lead
+163,13/01/2026,TI,Foz Do Rio Itajaí,Instagram,Qualificado,Lead
+164,23/01/2026,Logística,Alto Uruguai Catarinense,Indicação,Contato,Lead
+165,05/02/2026,Administração,Alto Uruguai Catarinense,Indicação,Qualificado,Lead
+166,31/03/2026,TI,Vale Do Itajaí Mirim,Whatsapp,Novo,Lead
+167,22/04/2026,Administração,Sudeste,Facebook,Convertido,Lead
+168,03/03/2026,Marketing,Norte - Nordeste,Instagram,Novo,Lead
+169,02/02/2026,Marketing,Alto Vale Do Itajaí,Google,Convertido,Lead
+170,04/03/2026,Administração,Sudeste,Google,Contato,Lead
+171,20/01/2026,Eletromecânica,Foz Do Rio Itajaí,Google,Contato,Lead
+172,16/01/2026,Eletromecânica,Oeste,Indicação,Contato,Lead
+173,10/04/2026,Eletromecânica,Oeste,Whatsapp,Convertido,Lead
+174,08/02/2026,Eletromecânica,Oeste,Facebook,Novo,Lead
+175,20/03/2026,Administração,Centro - Oeste,Instagram,Qualificado,Lead
+176,26/03/2026,Administração,Centro - Norte,Instagram,Contato,Lead
+177,12/03/2026,Administração,Centro - Norte,Google,Convertido,Lead
+178,27/02/2026,Eletromecânica,Planalto Norte,Facebook,Novo,Lead
+179,30/01/2026,Logística,Foz Do Rio Itajaí,Whatsapp,Novo,Lead
+180,29/03/2026,TI,Foz Do Rio Itajaí,Indicação,Contato,Lead
+181,24/02/2026,Administração,Sul,Instagram,Contato,Lead
+182,27/04/2026,Logística,Centro - Norte,Google,Novo,Lead
+183,22/01/2026,Logística,Sudeste,Indicação,Qualificado,Lead
+184,26/02/2026,Administração,Planalto Norte,Facebook,Convertido,Lead
+185,01/05/2026,Logística,Sul,Indicação,Convertido,Lead
+186,26/02/2026,Administração,Sudeste,Google,Convertido,Lead
+187,05/04/2026,Logística,Sudeste,Facebook,Novo,Lead
+188,12/01/2026,TI,Vale Do Itajaí Mirim,Indicação,Novo,Lead
+189,08/04/2026,Logística,Sudeste,Google,Contato,Lead
+190,02/03/2026,Eletromecânica,Vale Do Itajaí Mirim,Whatsapp,Qualificado,Lead
+191,24/01/2026,Eletromecânica,Oeste,Whatsapp,Novo,Lead
+192,02/03/2026,Logística,Oeste,Facebook,Qualificado,Lead
+193,27/03/2026,Administração,Centro - Norte,Facebook,Convertido,Lead
+194,30/03/2026,Marketing,Foz Do Rio Itajaí,Whatsapp,Novo,Lead
+195,28/02/2026,Administração,Norte - Nordeste,Facebook,Qualificado,Lead
+196,15/01/2026,Marketing,Sul,Google,Convertido,Lead
+197,22/02/2026,Administração,Centro - Oeste,Indicação,Qualificado,Lead
+198,21/03/2026,Marketing,Vale Do Itajaí Mirim,Whatsapp,Novo,Lead
+199,27/01/2026,Logística,Sul,Instagram,Qualificado,Lead
+200,26/02/2026,Marketing,Alto Vale Do Itajaí,Google,Contato,Lead
+201,01/04/2026,TI,Foz Do Rio Itajaí,Indicação,Novo,Lead
+202,12/03/2026,Marketing,Alto Vale Do Itajaí,Instagram,Novo,Lead
+203,01/03/2026,Administração,Vale Do Itajaí Mirim,Instagram,Convertido,Lead
+204,30/04/2026,Logística,Sul,Facebook,Convertido,Lead
+205,17/04/2026,Marketing,Planalto Norte,Instagram,Convertido,Lead
+206,12/03/2026,TI,Oeste,Instagram,Contato,Lead
+207,21/04/2026,Administração,Foz Do Rio Itajaí,Whatsapp,Qualificado,Lead
+208,30/04/2026,Eletromecânica,Foz Do Rio Itajaí,Google,Qualificado,Lead
+209,03/04/2026,Logística,Sudeste,Indicação,Convertido,Lead
+210,21/04/2026,TI,Planalto Norte,Indicação,Convertido,Lead
+211,14/02/2026,Logística,Sul,Indicação,Convertido,Lead
+212,28/02/2026,Logística,Centro - Oeste,Instagram,Convertido,Lead
+213,30/01/2026,Marketing,Alto Uruguai Catarinense,Facebook,Convertido,Lead
+214,01/04/2026,Marketing,Oeste,Instagram,Convertido,Lead
+215,05/01/2026,TI,Sul,Indicação,Qualificado,Lead
+216,22/04/2026,Administração,Planalto Norte,Google,Convertido,Lead
+217,02/01/2026,TI,Oeste,Instagram,Novo,Lead
+218,02/03/2026,Logística,Norte - Nordeste,Indicação,Convertido,Lead
+219,25/03/2026,Administração,Norte - Nordeste,Indicação,Convertido,Lead
+220,10/02/2026,Marketing,Sul,Google,Novo,Lead
+221,31/01/2026,Logística,Centro - Oeste,Google,Convertido,Lead
+222,13/01/2026,Administração,Planalto Norte,Instagram,Qualificado,Lead
+223,26/04/2026,Administração,Alto Uruguai Catarinense,Facebook,Novo,Lead
+224,07/02/2026,Logística,Norte - Nordeste,Whatsapp,Contato,Lead
+225,01/02/2026,Eletromecânica,Oeste,Indicação,Contato,Lead
+226,22/01/2026,TI,Alto Vale Do Itajaí,Indicação,Convertido,Lead
+227,21/03/2026,TI,Planalto Norte,Indicação,Contato,Lead
+228,30/01/2026,Marketing,Vale Do Itajaí Mirim,Facebook,Convertido,Lead
+229,02/02/2026,Administração,Planalto Norte,Facebook,Contato,Lead
+230,10/01/2026,Marketing,Norte - Nordeste,Indicação,Qualificado,Lead
+231,23/03/2026,Marketing,Foz Do Rio Itajaí,Whatsapp,Qualificado,Lead
+232,26/01/2026,Marketing,Planalto Norte,Google,Contato,Lead
+233,18/02/2026,Eletromecânica,Norte - Nordeste,Indicação,Qualificado,Lead
+234,31/03/2026,Logística,Alto Uruguai Catarinense,Whatsapp,Qualificado,Lead
+235,02/01/2026,Eletromecânica,Vale Do Itajaí Mirim,Google,Convertido,Lead
+236,17/04/2026,Logística,Centro - Oeste,Indicação,Qualificado,Lead
+237,29/01/2026,TI,Sudeste,Facebook,Contato,Lead
+238,22/03/2026,Administração,Vale Do Itajaí Mirim,Google,Qualificado,Lead
+239,11/04/2026,Marketing,Alto Uruguai Catarinense,Indicação,Qualificado,Lead
+240,04/04/2026,TI,Alto Vale Do Itajaí,Facebook,Qualificado,Lead
+241,06/04/2026,Marketing,Centro - Norte,Instagram,Contato,Lead
+242,11/04/2026,Eletromecânica,Norte - Nordeste,Indicação,Qualificado,Lead
+243,17/04/2026,TI,Foz Do Rio Itajaí,Whatsapp,Qualificado,Lead
+244,06/04/2026,Logística,Alto Vale Do Itajaí,Whatsapp,Novo,Lead
+245,19/01/2026,TI,Vale Do Itajaí Mirim,Whatsapp,Qualificado,Lead
+246,12/01/2026,Marketing,Alto Uruguai Catarinense,Facebook,Novo,Lead
+247,28/02/2026,Logística,Vale Do Itajaí Mirim,Facebook,Convertido,Lead
+248,16/04/2026,Logística,Alto Vale Do Itajaí,Instagram,Convertido,Lead
+249,04/01/2026,Eletromecânica,Sul,Facebook,Contato,Lead
+250,24/03/2026,Administração,Vale Do Itajaí Mirim,Whatsapp,Qualificado,Lead
+251,25/03/2026,Marketing,Alto Vale Do Itajaí,Instagram,Novo,Lead
+252,05/01/2026,Logística,Planalto Norte,Google,Novo,Lead
+253,31/01/2026,Eletromecânica,Centro - Norte,Whatsapp,Convertido,Lead
+254,17/02/2026,Eletromecânica,Oeste,Indicação,Contato,Lead
+255,24/04/2026,Marketing,Vale Do Itajaí Mirim,Google,Convertido,Lead
+256,20/03/2026,Marketing,Foz Do Rio Itajaí,Google,Qualificado,Lead
+257,28/01/2026,Marketing,Planalto Norte,Instagram,Qualificado,Lead
+258,13/01/2026,Logística,Sul,Facebook,Novo,Lead
+259,20/02/2026,Logística,Centro - Oeste,Google,Convertido,Lead
+260,12/01/2026,TI,Vale Do Itajaí Mirim,Indicação,Novo,Lead
+261,07/01/2026,Logística,Centro - Oeste,Instagram,Contato,Lead
+262,09/01/2026,Eletromecânica,Centro - Oeste,Indicação,Contato,Lead
+263,15/04/2026,TI,Norte - Nordeste,Instagram,Novo,Lead
+264,05/02/2026,TI,Centro - Norte,Indicação,Qualificado,Lead
+265,13/04/2026,TI,Alto Vale Do Itajaí,Google,Contato,Lead
+266,02/01/2026,Logística,Centro - Oeste,Indicação,Qualificado,Lead
+267,03/01/2026,TI,Foz Do Rio Itajaí,Google,Contato,Lead
+268,05/04/2026,Marketing,Sul,Google,Novo,Lead
+269,02/03/2026,Marketing,Norte - Nordeste,Indicação,Novo,Lead
+270,27/02/2026,Eletromecânica,Centro - Oeste,Indicação,Novo,Lead
+271,04/04/2026,Eletromecânica,Foz Do Rio Itajaí,Whatsapp,Novo,Lead
+272,08/01/2026,Marketing,Oeste,Whatsapp,Novo,Lead
+273,04/03/2026,Marketing,Alto Vale Do Itajaí,Google,Qualificado,Lead
+274,19/03/2026,TI,Alto Vale Do Itajaí,Instagram,Qualificado,Lead
+275,21/03/2026,Eletromecânica,Sul,Facebook,Convertido,Lead
+276,18/03/2026,Eletromecânica,Foz Do Rio Itajaí,Whatsapp,Convertido,Lead
+277,13/01/2026,Administração,Vale Do Itajaí Mirim,Indicação,Contato,Lead
+278,25/02/2026,Marketing,Centro - Oeste,Whatsapp,Qualificado,Lead
+279,16/04/2026,Marketing,Oeste,Whatsapp,Novo,Lead
+280,10/02/2026,Marketing,Norte - Nordeste,Facebook,Qualificado,Lead
+281,20/01/2026,Marketing,Alto Vale Do Itajaí,Google,Novo,Lead
+282,12/01/2026,Marketing,Alto Vale Do Itajaí,Facebook,Contato,Lead
+283,13/03/2026,Administração,Sudeste,Indicação,Qualificado,Lead
+284,27/03/2026,Administração,Oeste,Facebook,Convertido,Lead
+285,22/04/2026,Administração,Foz Do Rio Itajaí,Indicação,Qualificado,Lead
+286,15/02/2026,Administração,Sudeste,Indicação,Contato,Lead
+287,20/01/2026,Marketing,Centro - Oeste,Google,Qualificado,Lead
+288,19/04/2026,Eletromecânica,Norte - Nordeste,Google,Qualificado,Lead
+289,15/03/2026,TI,Oeste,Indicação,Novo,Lead
+290,19/03/2026,Logística,Alto Uruguai Catarinense,Instagram,Qualificado,Lead
+291,31/03/2026,Logística,Norte - Nordeste,Facebook,Novo,Lead
+292,24/01/2026,TI,Sudeste,Whatsapp,Novo,Lead
+293,19/01/2026,Administração,Alto Vale Do Itajaí,Indicação,Contato,Lead
+294,18/02/2026,Marketing,Planalto Norte,Facebook,Contato,Lead
+295,17/02/2026,Logística,Norte - Nordeste,Indicação,Novo,Lead
+296,24/04/2026,Administração,Centro - Norte,Instagram,Novo,Lead
+297,28/03/2026,Administração,Foz Do Rio Itajaí,Whatsapp,Convertido,Lead
+298,04/03/2026,Eletromecânica,Planalto Norte,Whatsapp,Qualificado,Lead
+299,28/01/2026,Eletromecânica,Alto Vale Do Itajaí,Facebook,Convertido,Lead
+300,15/01/2026,Logística,Vale Do Itajaí Mirim,Indicação,Convertido,Lead
+301,09/03/2026,Logística,Alto Uruguai Catarinense,Instagram,Convertido,Lead
+302,18/03/2026,Administração,Alto Uruguai Catarinense,Instagram,Qualificado,Lead
+303,28/01/2026,TI,Foz Do Rio Itajaí,Facebook,Qualificado,Lead
+304,16/01/2026,Administração,Planalto Norte,Whatsapp,Contato,Lead
+305,17/01/2026,Marketing,Sul,Instagram,Qualificado,Lead
+306,10/01/2026,Marketing,Alto Uruguai Catarinense,Whatsapp,Novo,Lead
+307,28/02/2026,Administração,Norte - Nordeste,Indicação,Convertido,Lead
+308,15/03/2026,Marketing,Vale Do Itajaí Mirim,Whatsapp,Qualificado,Lead
+309,15/01/2026,Marketing,Alto Uruguai Catarinense,Facebook,Contato,Lead
+310,13/04/2026,Eletromecânica,Planalto Norte,Facebook,Novo,Lead
+311,25/02/2026,Administração,Centro - Oeste,Whatsapp,Convertido,Lead
+312,09/03/2026,Administração,Oeste,Facebook,Qualificado,Lead
+313,29/01/2026,Logística,Centro - Norte,Google,Novo,Lead
+314,09/03/2026,Eletromecânica,Centro - Oeste,Facebook,Qualificado,Lead
+315,04/04/2026,TI,Centro - Oeste,Google,Contato,Lead
+316,02/02/2026,TI,Centro - Norte,Indicação,Contato,Lead
+317,08/04/2026,Administração,Centro - Norte,Whatsapp,Convertido,Lead
+318,07/04/2026,Eletromecânica,Sudeste,Whatsapp,Qualificado,Lead
+319,21/04/2026,Logística,Centro - Norte,Whatsapp,Novo,Lead
+320,02/03/2026,Marketing,Vale Do Itajaí Mirim,Facebook,Qualificado,Lead
+321,17/03/2026,Administração,Norte - Nordeste,Indicação,Novo,Lead
+322,09/02/2026,Marketing,Planalto Norte,Google,Novo,Lead
+323,17/02/2026,Logística,Alto Vale Do Itajaí,Google,Convertido,Lead
+324,01/03/2026,Eletromecânica,Sul,Google,Convertido,Lead
+325,27/04/2026,Eletromecânica,Vale Do Itajaí Mirim,Instagram,Qualificado,Lead
+326,19/03/2026,Marketing,Sul,Instagram,Novo,Lead
+327,27/02/2026,Administração,Norte - Nordeste,Google,Contato,Lead
+328,06/01/2026,TI,Planalto Norte,Whatsapp,Contato,Lead
+329,16/02/2026,Logística,Foz Do Rio Itajaí,Whatsapp,Convertido,Lead
+330,10/04/2026,Logística,Vale Do Itajaí Mirim,Indicação,Novo,Lead
+331,12/04/2026,Logística,Alto Vale Do Itajaí,Facebook,Novo,Lead
+332,13/03/2026,Marketing,Foz Do Rio Itajaí,Facebook,Contato,Lead
+333,12/02/2026,Administração,Sudeste,Instagram,Qualificado,Lead
+334,09/02/2026,Marketing,Centro - Norte,Indicação,Novo,Lead
+335,09/02/2026,Eletromecânica,Oeste,Facebook,Contato,Lead
+336,27/03/2026,Eletromecânica,Alto Vale Do Itajaí,Whatsapp,Qualificado,Lead
+337,03/01/2026,Logística,Foz Do Rio Itajaí,Instagram,Contato,Lead
+338,13/02/2026,Marketing,Centro - Oeste,Instagram,Contato,Lead
+339,20/01/2026,Administração,Foz Do Rio Itajaí,Google,Novo,Lead
+340,26/03/2026,Logística,Sudeste,Instagram,Convertido,Lead
+341,20/01/2026,TI,Centro - Norte,Indicação,Contato,Lead
+342,03/04/2026,Marketing,Alto Uruguai Catarinense,Whatsapp,Qualificado,Lead
+343,28/03/2026,TI,Planalto Norte,Indicação,Qualificado,Lead
+344,07/04/2026,Marketing,Centro - Oeste,Indicação,Contato,Lead
+345,09/02/2026,Marketing,Centro - Oeste,Facebook,Convertido,Lead
+346,01/03/2026,Logística,Oeste,Indicação,Convertido,Lead
+347,21/01/2026,TI,Sudeste,Instagram,Qualificado,Lead
+348,07/01/2026,Marketing,Norte - Nordeste,Indicação,Novo,Lead
+349,02/04/2026,Eletromecânica,Alto Vale Do Itajaí,Facebook,Novo,Lead
+350,08/04/2026,TI,Foz Do Rio Itajaí,Whatsapp,Contato,Lead
+351,17/04/2026,Marketing,Alto Vale Do Itajaí,Instagram,Convertido,Lead
+352,24/04/2026,Logística,Alto Uruguai Catarinense,Whatsapp,Novo,Lead
+353,20/02/2026,Eletromecânica,Norte - Nordeste,Instagram,Convertido,Lead
+354,11/01/2026,Logística,Centro - Oeste,Google,Qualificado,Lead
+355,30/04/2026,Administração,Vale Do Itajaí Mirim,Facebook,Contato,Lead
+356,18/01/2026,Administração,Foz Do Rio Itajaí,Whatsapp,Contato,Lead
+357,08/04/2026,Marketing,Planalto Norte,Indicação,Novo,Lead
+358,26/04/2026,Administração,Alto Uruguai Catarinense,Facebook,Contato,Lead
+359,17/04/2026,TI,Sul,Indicação,Convertido,Lead
+360,15/01/2026,Logística,Centro - Oeste,Facebook,Novo,Lead
+361,07/01/2026,TI,Oeste,Indicação,Convertido,Lead
+362,09/01/2026,Administração,Planalto Norte,Indicação,Novo,Lead
+363,22/03/2026,Eletromecânica,Sudeste,Instagram,Contato,Lead
+364,07/02/2026,Marketing,Alto Uruguai Catarinense,Indicação,Qualificado,Lead
+365,31/01/2026,Eletromecânica,Oeste,Instagram,Novo,Lead
+366,09/03/2026,Logística,Alto Vale Do Itajaí,Indicação,Novo,Lead
+367,19/02/2026,Marketing,Alto Uruguai Catarinense,Whatsapp,Qualificado,Lead
+368,02/02/2026,Administração,Norte - Nordeste,Google,Qualificado,Lead
+369,31/01/2026,Administração,Sudeste,Facebook,Contato,Lead
+370,06/01/2026,Logística,Sul,Facebook,Contato,Lead
+371,17/04/2026,Marketing,Planalto Norte,Instagram,Contato,Lead
+372,09/01/2026,Marketing,Alto Uruguai Catarinense,Facebook,Contato,Lead
+373,06/01/2026,TI,Alto Uruguai Catarinense,Facebook,Qualificado,Lead
+374,07/03/2026,Marketing,Sul,Whatsapp,Qualificado,Lead
+375,05/01/2026,TI,Foz Do Rio Itajaí,Facebook,Novo,Lead
+376,21/04/2026,Logística,Foz Do Rio Itajaí,Google,Qualificado,Lead
+377,25/02/2026,Marketing,Planalto Norte,Whatsapp,Qualificado,Lead
+378,24/01/2026,Marketing,Planalto Norte,Facebook,Qualificado,Lead
+379,13/04/2026,Administração,Oeste,Google,Convertido,Lead
+380,19/03/2026,TI,Sul,Facebook,Qualificado,Lead
+381,14/01/2026,Administração,Norte - Nordeste,Facebook,Qualificado,Lead
+382,27/02/2026,Eletromecânica,Oeste,Instagram,Convertido,Lead
+383,14/02/2026,Marketing,Alto Uruguai Catarinense,Facebook,Convertido,Lead
+384,05/02/2026,Administração,Alto Vale Do Itajaí,Whatsapp,Qualificado,Lead
+385,07/03/2026,TI,Alto Uruguai Catarinense,Instagram,Convertido,Lead
+386,05/01/2026,TI,Alto Vale Do Itajaí,Instagram,Qualificado,Lead
+387,16/02/2026,Marketing,Sudeste,Google,Contato,Lead
+388,28/03/2026,Marketing,Norte - Nordeste,Facebook,Convertido,Lead
+389,08/04/2026,Administração,Sudeste,Instagram,Qualificado,Lead
+390,20/02/2026,Logística,Vale Do Itajaí Mirim,Facebook,Contato,Lead
+391,15/01/2026,Administração,Centro - Norte,Whatsapp,Convertido,Lead
+392,27/04/2026,Eletromecânica,Alto Vale Do Itajaí,Facebook,Qualificado,Lead
+393,01/04/2026,Marketing,Centro - Oeste,Indicação,Qualificado,Lead
+394,30/03/2026,Marketing,Centro - Oeste,Google,Contato,Lead
+395,20/04/2026,Administração,Planalto Norte,Instagram,Convertido,Lead
+396,12/01/2026,Logística,Vale Do Itajaí Mirim,Facebook,Novo,Lead
+397,12/03/2026,Eletromecânica,Foz Do Rio Itajaí,Facebook,Contato,Lead
+398,02/04/2026,TI,Norte - Nordeste,Indicação,Contato,Lead
+399,16/01/2026,TI,Centro - Norte,Instagram,Convertido,Lead
+400,04/01/2026,Logística,Sul,Indicação,Qualificado,Lead
