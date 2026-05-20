@@ -8,7 +8,7 @@ import pandas as pd
 sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 
 BASE = r'C:\inteligencia_mercado\01_dados_brutos'
-OUT  = r'C:\inteligencia_mercado\01_dados_brutos\tratados'
+OUT  = r'C:\inteligencia_mercado\02_dados_tratados'
 os.makedirs(OUT, exist_ok=True)
 
 # ── helpers ──────────────────────────────────────────────────────────────────

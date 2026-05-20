@@ -13,14 +13,14 @@ sc-comercial-analytics/
 ├── 01_dados_brutos/
 │   ├── leads_atualizados.csv
 │   ├── matriculas_atualizadas.csv
-│   ├── pre_matriculas_atualizadas.csv
-│   └── tratados/
-│       ├── leads_tratado.csv
-│       ├── inscritos_tratado.csv
-│       ├── pre_matriculas_tratado.csv
-│       ├── matriculas_tratado.csv
-│       ├── metas_tratado.csv
-│       └── fFunil.csv
+│   └── pre_matriculas_atualizadas.csv
+├── 02_dados_tratados/
+│   ├── leads_tratado.csv
+│   ├── inscritos_tratado.csv
+│   ├── pre_matriculas_tratado.csv
+│   ├── matriculas_tratado.csv
+│   ├── metas_tratado.csv
+│   └── fFunil.csv
 ├── .gitignore
 └── README.md
 ```
@@ -78,7 +78,7 @@ sc-comercial-analytics/
 python scripts/tratar_dados.py
 ```
 
-Gera todos os CSVs tratados em `01_dados_brutos/tratados/`.
+Gera todos os CSVs tratados em `02_dados_tratados/`.
 
 ---
 
