@@ -1,12 +1,12 @@
-﻿regional,meta_leads,meta_inscritos,meta_pre_matriculas,meta_matriculas,etapa
-Alto Uruguai Catarinense,174,95,87,111,Meta
-Alto Vale Do Itajaí,256,122,148,111,Meta
-Centro - Norte,322,147,100,96,Meta
-Centro - Oeste,289,106,54,39,Meta
-Foz Do Rio Itajaí,151,136,104,78,Meta
-Norte - Nordeste,187,182,61,94,Meta
-Oeste,165,104,42,86,Meta
-Planalto Norte,249,110,141,56,Meta
-Sul,119,138,93,104,Meta
-Sudeste,132,57,53,34,Meta
-Vale Do Itajaí Mirim,380,65,75,100,Meta
+﻿regional,meta_leads,meta_inscritos,meta_pre_matriculas,meta_matriculas,etapa,regional_id
+Alto Uruguai Catarinense,174,95,87,111,Meta,1
+Alto Vale Do Itajaí,256,122,148,111,Meta,2
+Centro - Norte,322,147,100,96,Meta,3
+Centro - Oeste,289,106,54,39,Meta,4
+Foz Do Rio Itajaí,151,136,104,78,Meta,5
+Norte - Nordeste,187,182,61,94,Meta,6
+Oeste,165,104,42,86,Meta,7
+Planalto Norte,249,110,141,56,Meta,8
+Sul,119,138,93,104,Meta,10
+Sudeste,132,57,53,34,Meta,9
+Vale Do Itajaí Mirim,380,65,75,100,Meta,11
