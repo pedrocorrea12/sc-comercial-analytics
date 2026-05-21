@@ -33,6 +33,7 @@ leads      = read('leads_tratado.csv')
 inscritos  = read('inscritos_tratado.csv')
 pre_mat    = read('pre_matriculas_tratado.csv')
 matriculas = read('matriculas_tratado.csv')
+metas      = read('metas_tratado.csv')
 
 # ── dimensões ─────────────────────────────────────────────────────────────────
 
@@ -106,6 +107,7 @@ tabelas = [
     ('fInscritos',   fInscritos),
     ('fPreMatriculas', fPreMatriculas),
     ('fMatriculas',  fMatriculas),
+    ('metas_tratado', metas),
 ]
 
 print(f"{'='*60}")
