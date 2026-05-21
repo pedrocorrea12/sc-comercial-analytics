@@ -8,3 +8,6 @@ __pycache__/
 *.xlsx
 *.zip
 _ibge_sc_temp/
+
+# Contexto pessoal / IA — não versionado
+contexto_modelo.md
